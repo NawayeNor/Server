@@ -10,6 +10,22 @@
 
     "fa": "فارسی "
 
-  }
+  } ,
 
+  
+ {
+   
+   
+   "Name": "زیارت عاشورا",
+   
+   "Icon": "github.com/NawayeNor/photo-app/raw/gh-pages/PicsArt_10-21-11.16.43.png",
+   
+   "arb": "متن به عربی",
+   
+   "fa": "معنی متن عربی"
+ 
+ 
+ } 
+  
+  
 ]
