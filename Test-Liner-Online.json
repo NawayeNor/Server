@@ -1,11 +1,11 @@
 {
 
-  "Gra": "android.graphics.drawable.GradientDrawable BlackError = new android.graphics.drawable.GradientDrawable();
+  "Gra": "{
+android.graphics.drawable.GradientDrawable BlackError = new android.graphics.drawable.GradientDrawable();
 int colors [] = { 0xFF263238, 0xFF546E7A };
 BlackError = new android.graphics.drawable.GradientDrawable(android.graphics.drawable.GradientDrawable.Orientation.LEFT_RIGHT, colors);
 BlackError.setCornerRadius(getDip(19));
-android.graphics.drawable.RippleDrawable BlackError_l = new android.graphics.drawable.RippleDrawable(new android.content.res.ColorStateList(new int[][]{new int[]{}}, new int[]{0xFFFFFFFF}), BlackError, null);",
-
-  "Liner": "BlackError"
+android.graphics.drawable.RippleDrawable BlackError_l = new android.graphics.drawable.RippleDrawable(new android.content.res.ColorStateList(new int[][]{new int[]{}}, new int[]{0xFFFFFFFF}), BlackError, null);
+}"
 
 }
