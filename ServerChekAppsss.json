@@ -13,6 +13,17 @@
 
   "Nohe_Photo": "https://github.com/NawayeNor/photo-app/raw/gh-pages/PicsArt_11-05-02.32.43.png",
 
-  "Nohe_Text": "نوحه"
+  "Nohe_Text": "نوحه" ,
+
+  "Paygah_Photo" : "لینک ایکون پایگاه" ,
+
+  "Masged_Photo" : "لینک ایکون مسجد" 
+
+} ,
+
+{
+
+
+  "Masged_Link" : "لینک سایت بچه های مسجد"
 
 }
