@@ -4,24 +4,50 @@
 
   "Text_NO" : "سرور های اپلیکیشن توسط سازنده بسته شده است لطفا با سازنده تماس بگیرید با تشکر" ,
 
+   
+  "--------------------------" : "----------------------" ,
+
 
   "Adie_Photo": "https://github.com/NawayeNor/photo-app/raw/gh-pages/PicsArt_11-05-02.34.56.png",
 
+
   "Haram_Photo": "https://github.com/NawayeNor/photo-app/raw/gh-pages/PicsArt_12-17-06.46.13.png",
+
 
   "Salavat_Photo": "https://github.com/NawayeNor/photo-app/raw/gh-pages/PicsArt_12-17-06.56.40.png",
 
+
   "Quran_Photo": "https://github.com/NawayeNor/photo-app/raw/gh-pages/PicsArt_12-17-06.56.19.png",
+
 
   "Nohe_Photo": "https://github.com/NawayeNor/photo-app/raw/gh-pages/PicsArt_11-05-02.32.43.png",
 
+
   "Nohe_Text": "نوحه" ,
+
 
   "Shohada_Photo" : "https://github.com/NawayeNor/photo-app/raw/gh-pages/PicsArt_12-17-06.55.49.png" ,
 
+
   "Paygah_Photo" : "https://github.com/NawayeNor/photo-app/raw/gh-pages/PicsArt_10-05-03.22.22.png" ,
 
+
   "Masged_Photo" : "https://github.com/NawayeNor/photo-app/raw/gh-pages/images.jpeg" ,
+
+
+  "Photo_Qavanin" : "لینک عکس قوانین" ,
+
+   "------------------------" : "-------------------" ,
+
+
+
+   "Nohe_Text": "نوحه" ,
+
+
+   "Text_Qavanin" : "متن جلوی قوانین" ,
+
+
+   "--------------" : "---------------------------" ,
 
 
   "Masged_Link" : "https://bachehayemasjed.ir"
